@@ -3,3 +3,4 @@ tensorflow-probability==0.8.0
 tf-agents==0.3.0
 gym
 gym[classic_control, box2d, atari, accept-rom-license]
+ipykernel
